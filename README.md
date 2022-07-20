@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShubhamMirase
 - 👀 I’m interested in learning Computational skills and programming.
-- 🌱 I’m currently learning Computer science. Currently in the 3rd Year
+- 🌱 I’m currently learning Computer science. Currently in the final Year
 - 💞️ In search of internship related to core computer concepts
 - 👀 For more details, connect with me on LinkedIn
 - 📫 How to reach me Insta ID: shubhammirase_13
